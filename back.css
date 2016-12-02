@@ -1,7 +1,10 @@
 body {
   background: #998:
-  font-family:arial;
+  font-family:cursive;
   font-size: 20px;
   text-align: center;
 
+}
+h1 {
+  font-family: cursive;
 }
