@@ -1,10 +1,25 @@
 body {
   background: grey;
-  font-family:inherit;;
+  font-family:inherit;
   font-size: 20px;
   text-align: center;
+  margin: 0;
 
 }
 h1 {
-  font-family: inherit;;
+  color: black;
+  font-family: inherit;
+}
+li, ul {
+  text-align: left;
+}
+header {
+  background: white;
+  margin: 0;
+
+}
+nav, ul, li{
+  display: inline-block;
+  list-style-type: none;
+
 }
